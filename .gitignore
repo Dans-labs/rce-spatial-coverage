@@ -1,0 +1,78 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.out
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.nox/
+*.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution/build files
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+
+# Editor and OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Environments
+*.env
+.env.*
+.envrc
+
+# Python-specific cache
+*.mypy_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Pipenv files
+Pipfile.lock
+poetry.lock
+
+# Database files
+*.sqlite3
+*.db
+
+# Debugging and profiling files
+*.prof
+*.lprof
+
+# AWS credentials
+*.pem
+
+# Coverage tools
+.cache
+.pytest_cache/
+
