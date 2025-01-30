@@ -41,3 +41,4 @@ def get_json(doi):
     # Wait for 1 second to avoid overloading the server
     wait_time = 1  # seconds
     time.sleep(wait_time)
+
