@@ -1,5 +1,6 @@
 
 import requests
+import pyproj
 
 
 def clean_api_output(response_text):
@@ -53,3 +54,39 @@ def query_api(coord1, coord2):
     clean_text = clean_api_output(response_text)
 
     return clean_text
+
+
+
+def convert_rd_to_wgs84(rd_coordinates):
+    """
+    Convert RD (Rijksdriehoek) coordinates to WGS84 coordinates.
+    """
+    rd_proj = pyproj.Proj(init='epsg:28992')
+    wgs84_proj = pyproj.Proj(init='epsg:4326')
+
+    if isinstance(rd_coordinates, list):
+        wgs84_coordinates = []
+        for rd_coord in rd_coordinates:
+            x, y = rd_coord
+            lon, lat = pyproj.transform(rd_proj, wgs84_proj, x, y)
+            wgs84_coordinates.append((lat, lon))
+        return wgs84_coordinates
+    else:
+        x, y = rd_coordinates
+        lon, lat = pyproj.transform(rd_proj, wgs84_proj, x, y)
+        return (lat, lon)
+    
+
+# Function to convert and handle multiple coordinate pairs
+def convert_multiple_pairs(row):
+    rd_points_str = row['dansSpatialPoints']
+    scheme = row['dansSpatialSchemes']
+    
+    if scheme == 'longitude/latitude (degrees)':
+        return rd_points_str
+    elif rd_points_str == 'None,None':
+        return 'None'
+    else:
+        rd_points = [tuple(map(float, point.split(','))) for point in rd_points_str.split(';')]
+        wgs84_points = convert_rd_to_wgs84(rd_points)
+        return ';'.join([f"{lat},{lon}" for lat, lon in wgs84_points])
