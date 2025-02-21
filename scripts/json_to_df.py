@@ -3,6 +3,11 @@ import pandas as pd
 import os
 import re
 
+def get_doi(json):
+    full_id = json['@id']
+    doi = full_id.split('//')[-1]
+    return doi
+
 
 
 def get_json_paths(prefix='geo'):
@@ -27,8 +32,6 @@ def clean_description(description):
     return description
 
 
-def get_geodata():
-    pass
 
 def extract_data(prefix = 'geo'): 
     # Create an empty list to store the data
