@@ -5,7 +5,8 @@ import re
 
 def get_doi(json):
     full_id = json['@id']
-    doi = full_id.split('//')[-1]
+    doi = full_id.split('.org/')[-1]
+
     return doi
 
 
