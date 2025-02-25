@@ -5,7 +5,12 @@ import re
 
 def get_doi(json):
     full_id = json['@id']
-    doi = full_id.split('.org/')[-1]
+    
+    if '.org' in full_id: 
+        doi = full_id.split('.org/')[-1]
+
+    else:
+        doi = full_id.split('doi:')[-1]
 
     return doi
 
