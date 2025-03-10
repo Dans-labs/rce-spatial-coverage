@@ -2,6 +2,7 @@ import requests
 import zipfile
 import io
 import os
+import pymupdf  # PyMuPDF
 
 def download_files(persistent_id, selected_files):
 
@@ -36,6 +37,55 @@ def download_files(persistent_id, selected_files):
         print(f"Error: {response.status_code}, {response.text}")
 
     print("=================================================================")
+
+
+
+
+
+
+
+def download_txt(persistent_id): 
+
+    url = f"http://archaeology.datastations.nl/api/access/dataset/:persistentId?persistentId=doi:{persistent_id}"
+    params = {"persistent_id": persistent_id}
+
+    output_doi = persistent_id.replace("/", "%")
+    output_dir = f"../data/reports/{output_doi}"
+
+    response = requests.get(url, params=params, stream=True)
+
+    if response.status_code == 200:
+
+        with zipfile.ZipFile(io.BytesIO(response.content)) as zip_file:
+            os.makedirs(output_dir, exist_ok=True)
+
+            zip_filenames = set(zip_file.namelist())  # Get all files in the ZIP
+            print(zip_filenames)
+            pdf_files = {file_name for file_name in zip_filenames if file_name.endswith('.pdf')}
+
+            for file_name in pdf_files:
+                pdf_path = os.path.join(output_dir, file_name)
+                zip_file.extract(file_name, output_dir)
+                print(f"Extracted: {file_name}")
+
+                # Convert PDF to text
+                txt_path = pdf_path.replace('.pdf', '.txt')
+                with pymupdf.open(pdf_path) as pdf_document:
+                    text = ""
+                    for page in pdf_document:
+                        text += page.get_text()
+
+                with open(txt_path, 'w') as txt_file:
+                    txt_file.write(text)
+                print(f"Converted to text: {txt_path}")
+
+        print(f"PDF files saved to '{output_dir}'")
+    else:
+        print(f"Error: {response.status_code}, {response.text}")
+
+    print("=================================================================")
+
+
 
 
 def download_pdf(persistent_id): 
