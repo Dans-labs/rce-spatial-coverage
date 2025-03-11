@@ -1,17 +1,91 @@
+# This script contains functions to inspect and download files from a dataset in the Archaeology Data Station repository.
+# Author: Alessandra Polimeno (DANS-KNAW)
+
+
+# The format of the DOIs should have the following structure: "10.17026/dans-xxx-xx0x"
+# They can be found under the column "dsPersistentID"
+
 import requests
 import zipfile
 import io
 import os
-import pymupdf  # PyMuPDF
 
-def download_files(persistent_id, selected_files):
+
+def print_all_files(persistent_id):
+    """
+    Print all files in a dataset with the given persistent ID.
+
+    :param persistent_id: The persistent ID of the dataset.
+
+    """
+    url = f"http://archaeology.datastations.nl/api/access/dataset/:persistentId?persistentId=doi:{persistent_id}"
+    params = {"persistent_id": persistent_id}
+
+    response = requests.get(url, params=params, stream=True)
+
+    if response.status_code == 200:
+
+        with zipfile.ZipFile(io.BytesIO(response.content)) as zip_file:
+            print(zip_file.namelist())
+    else:
+        print(f"Error: {response.status_code}, {response.text}")
+
+    print("=================================================================")
+
+
+
+
+def download_all_files(persistent_id, output_path):
+    """
+    Download all files from a dataset with the given persistent ID.
+
+    :param persistent_id: The persistent ID of the dataset.
+    :param output_path: The path to the directory where the files will be saved. If the directory does not exist, it will be created.
+
+    """
+    url = f"http://archaeology.datastations.nl/api/access/dataset/:persistentId?persistentId=doi:{persistent_id}"
+    params = {"persistent_id": persistent_id}
+
+    output_doi = persistent_id.replace("/", "%")
+    output_dir = f"{output_path}/{output_doi}"
+
+    response = requests.get(url, params=params, stream=True)
+
+    if response.status_code == 200:
+
+        with zipfile.ZipFile(io.BytesIO(response.content)) as zip_file:
+            os.makedirs(output_dir, exist_ok=True)
+
+            for file_name in zip_file.namelist():
+                zip_file.extract(file_name, output_dir)
+                print(f"Extracted: {file_name}")
+
+        print(f"All files saved to '{output_dir}'")
+    else:
+        print(f"Error: {response.status_code}, {response.text}")   
+    
+    print("=================================================================")
+
+
+
+
+
+def download_selected_files(persistent_id, selected_files, output_path):
+    """
+    Download selected files from a dataset with the given persistent ID. You select the files by providing a list of filenames.
+    Even if you want to download only one file, you need to provide the filename as a list.
+
+    :param persistent_id: The persistent ID of the dataset.
+    :param selected_files: A list containing the filenames to be downloaded.
+    :param output_path: The path to the directory where the files will be saved. If the directory does not exist, it will be created.
+
+    """
 
     url = f"http://archaeology.datastations.nl/api/access/dataset/:persistentId?persistentId=doi:{persistent_id}"
     params = {"persistent_id": persistent_id}
 
     output_doi = persistent_id.replace("/", "%")
-    output_dir = f"../data/downloaded_files/{output_doi}"
-
+    output_dir = f"{output_path}/{output_doi}"
 
     response = requests.get(url, params=params, stream=True)
 
@@ -42,15 +116,21 @@ def download_files(persistent_id, selected_files):
 
 
 
+def download_specific_filetype(persistent_id, output_path, filetype): 
+    """
+    Download all files of a given filetype from the dataset with the specified persistent ID.
 
+    :param persistent_id: The persistent ID of the dataset.
+    :param output_path: The path to the directory where the PDF files will be saved. If the directory does not exist, it will be created.
+    :param filetype: The file type to be downloaded as a string, e.g. 'xml'
 
-def download_txt(persistent_id): 
+    """
 
     url = f"http://archaeology.datastations.nl/api/access/dataset/:persistentId?persistentId=doi:{persistent_id}"
     params = {"persistent_id": persistent_id}
 
     output_doi = persistent_id.replace("/", "%")
-    output_dir = f"../data/reports/{output_doi}"
+    output_dir = f"{output_path}/{output_doi}"
 
     response = requests.get(url, params=params, stream=True)
 
@@ -61,57 +141,13 @@ def download_txt(persistent_id):
 
             zip_filenames = set(zip_file.namelist())  # Get all files in the ZIP
             print(zip_filenames)
-            pdf_files = {file_name for file_name in zip_filenames if file_name.endswith('.pdf')}
+            selected_files = {file_name for file_name in zip_filenames if file_name.endswith(f'{filetype}')}
 
-            for file_name in pdf_files:
-                pdf_path = os.path.join(output_dir, file_name)
+            for file_name in selected_files:
                 zip_file.extract(file_name, output_dir)
                 print(f"Extracted: {file_name}")
 
-                # Convert PDF to text
-                txt_path = pdf_path.replace('.pdf', '.txt')
-                with pymupdf.open(pdf_path) as pdf_document:
-                    text = ""
-                    for page in pdf_document:
-                        text += page.get_text()
-
-                with open(txt_path, 'w') as txt_file:
-                    txt_file.write(text)
-                print(f"Converted to text: {txt_path}")
-
-        print(f"PDF files saved to '{output_dir}'")
-    else:
-        print(f"Error: {response.status_code}, {response.text}")
-
-    print("=================================================================")
-
-
-
-
-def download_pdf(persistent_id): 
-
-    url = f"http://archaeology.datastations.nl/api/access/dataset/:persistentId?persistentId=doi:{persistent_id}"
-    params = {"persistent_id": persistent_id}
-
-    output_doi = persistent_id.replace("/", "%")
-    output_dir = f"../data/reports/{output_doi}"
-
-    response = requests.get(url, params=params, stream=True)
-
-    if response.status_code == 200:
-
-        with zipfile.ZipFile(io.BytesIO(response.content)) as zip_file:
-            os.makedirs(output_dir, exist_ok=True)
-
-            zip_filenames = set(zip_file.namelist())  # Get all files in the ZIP
-            print(zip_filenames)
-            pdf_files = {file_name for file_name in zip_filenames if file_name.endswith('.pdf')}
-
-            for file_name in pdf_files:
-                zip_file.extract(file_name, output_dir)
-                print(f"Extracted: {file_name}")
-
-        print(f"PDF files saved to '{output_dir}'")
+        print(f"{filetype} files saved to '{output_dir}'")
     else:
         print(f"Error: {response.status_code}, {response.text}")
 
