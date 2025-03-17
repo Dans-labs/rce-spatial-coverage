@@ -16,7 +16,7 @@ def get_doi(json):
 
 
 
-def get_json_paths(prefix='geo'):
+def get_json_paths():
     # Extract info from JSONs 
 
     json_files = []
