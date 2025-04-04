@@ -1,0 +1,2482 @@
+[
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/FAJGJ9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "216.335",
+                "dansTemporalSpatial:dansSpatialPointY": "597.730"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/79FSNP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "245213.33",
+                "dansTemporalSpatial:dansSpatialPointY": "594708.97"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/5TMN6J",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "182.126",
+                "dansTemporalSpatial:dansSpatialPointY": "606.959"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/PGY7IP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "204.960",
+                "dansTemporalSpatial:dansSpatialPointY": "438.896"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/08LVUX",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "236895.24",
+                "dansTemporalSpatial:dansSpatialPointY": "595276.64"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/DWFZFA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "108120",
+                "dansTemporalSpatial:dansSpatialPointY": "458416"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/0GYOUC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "126306",
+                "dansTemporalSpatial:dansSpatialPointY": "407863"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SVVZZS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "143474",
+                "dansTemporalSpatial:dansSpatialPointY": "404893"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BGVC2I",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "190612",
+                "dansTemporalSpatial:dansSpatialPointY": "354431"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WMOK0V",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "232602",
+                "dansTemporalSpatial:dansSpatialPointY": "587126"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OTGFZR",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "195149.05",
+                "dansTemporalSpatial:dansSpatialPointY": "324030.26"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/VNLERH",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "207613",
+                "dansTemporalSpatial:dansSpatialPointY": "474374"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YV9BSC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "122.900",
+                "dansTemporalSpatial:dansSpatialPointY": "478.250"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/0NIWC8",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "139.108",
+                "dansTemporalSpatial:dansSpatialPointY": "375.014"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/PCEX8N",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "134885",
+                "dansTemporalSpatial:dansSpatialPointY": "449654"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/5FTQDL",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "102.623",
+                "dansTemporalSpatial:dansSpatialPointY": "477.541"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/SQRHSQ",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "92.425",
+                "dansTemporalSpatial:dansSpatialPointY": "466.767"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/XNQXVL",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "101.359",
+                "dansTemporalSpatial:dansSpatialPointY": "500.068"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/RQCH4K",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "141641",
+                "dansTemporalSpatial:dansSpatialPointY": "452842"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/GTUZJO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "131.652",
+                "dansTemporalSpatial:dansSpatialPointY": "496.856"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/YHRSVI",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "108.614",
+                "dansTemporalSpatial:dansSpatialPointY": "504.160"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/RDPOVU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "104.914",
+                "dansTemporalSpatial:dansSpatialPointY": "427.024"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/OJJI1T",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "932.71",
+                "dansTemporalSpatial:dansSpatialPointY": "423.669"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KOTDXS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "182252",
+                "dansTemporalSpatial:dansSpatialPointY": "428685"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/VI2TBG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "223.943",
+                "dansTemporalSpatial:dansSpatialPointY": "428.472"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/LKGANH",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "112690",
+                "dansTemporalSpatial:dansSpatialPointY": "476415"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/8CAE0L",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "111.805",
+                "dansTemporalSpatial:dansSpatialPointY": "401.252"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/PTBART",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "156.835",
+                "dansTemporalSpatial:dansSpatialPointY": "458.025"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/QBLUQE",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "78.651",
+                "dansTemporalSpatial:dansSpatialPointY": "440.259"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/V3JXEV",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "135.002",
+                "dansTemporalSpatial:dansSpatialPointY": "404.073"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/AIZVN4",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "80929",
+                "dansTemporalSpatial:dansSpatialPointY": "423523"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JIHOJG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "148345",
+                "dansTemporalSpatial:dansSpatialPointY": "402715"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/NSNUC4",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "102320",
+                "dansTemporalSpatial:dansSpatialPointY": "422000"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RL1OSF",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "232683",
+                "dansTemporalSpatial:dansSpatialPointY": "583577"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YTYQ4G",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "87650",
+                "dansTemporalSpatial:dansSpatialPointY": "450458"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MFVUM6",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "102.020",
+                "dansTemporalSpatial:dansSpatialPointY": "494.454"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/UFZ3E0",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "124.584",
+                "dansTemporalSpatial:dansSpatialPointY": "451.026"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/XQFNA7",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "201.571",
+                "dansTemporalSpatial:dansSpatialPointY": "563.773"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/VZYJKT",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "71327",
+                "dansTemporalSpatial:dansSpatialPointY": "449389"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/ZQ7VYX",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "128.721",
+                "dansTemporalSpatial:dansSpatialPointY": "464.989"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/3VTRPE",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "119.916",
+                "dansTemporalSpatial:dansSpatialPointY": "495.830"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WSB8BB",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "217.435",
+                "dansTemporalSpatial:dansSpatialPointY": "441.051"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WCXMFV",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "87335",
+                "dansTemporalSpatial:dansSpatialPointY": "455500"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/CQIMAA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "85.664",
+                "dansTemporalSpatial:dansSpatialPointY": "375.587"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/5UO83E",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "92.566",
+                "dansTemporalSpatial:dansSpatialPointY": "469.998"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/S9H8Y1",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "119778",
+                "dansTemporalSpatial:dansSpatialPointY": "390109"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/PALDWU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "104.654",
+                "dansTemporalSpatial:dansSpatialPointY": "454.286"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/C8NSBL",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "221.660",
+                "dansTemporalSpatial:dansSpatialPointY": "575.460"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/CLEUCA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "231420",
+                "dansTemporalSpatial:dansSpatialPointY": "476997"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/V1UVYG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "174100",
+                "dansTemporalSpatial:dansSpatialPointY": "448250"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BPAEO7",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "146970",
+                "dansTemporalSpatial:dansSpatialPointY": "378975"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/XM66X7",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "115419",
+                "dansTemporalSpatial:dansSpatialPointY": "535724"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/S5LW6G",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "108104",
+                "dansTemporalSpatial:dansSpatialPointY": "503495"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/ENBUGM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "171580",
+                "dansTemporalSpatial:dansSpatialPointY": "454060"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/HPETN0",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "247841",
+                "dansTemporalSpatial:dansSpatialPointY": "436258"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/Z8AVSN",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "153379",
+                "dansTemporalSpatial:dansSpatialPointY": "427873"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YIIOBS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "170901",
+                "dansTemporalSpatial:dansSpatialPointY": "484557"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MHLW8U",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "136657",
+                "dansTemporalSpatial:dansSpatialPointY": "455055"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/4ID7X0",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "205160",
+                "dansTemporalSpatial:dansSpatialPointY": "436250"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KQR8NC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "202094.78",
+                "dansTemporalSpatial:dansSpatialPointY": "366197.34"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/DVJSPL",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "118.658",
+                "dansTemporalSpatial:dansSpatialPointY": "525.356"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/LWNHCM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "178827",
+                "dansTemporalSpatial:dansSpatialPointY": "366089"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/4AWYBT",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "168325",
+                "dansTemporalSpatial:dansSpatialPointY": "446230"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/NKV1IE",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "92.044",
+                "dansTemporalSpatial:dansSpatialPointY": "471.851"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/7XIWUB",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "110.522",
+                "dansTemporalSpatial:dansSpatialPointY": "453.505"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/W0JKQX",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "167.560",
+                "dansTemporalSpatial:dansSpatialPointY": "429.144"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KFMTEW",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "105.355",
+                "dansTemporalSpatial:dansSpatialPointY": "500.081"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MDOJII",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "181.205",
+                "dansTemporalSpatial:dansSpatialPointY": "365.815"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/B1WA4F",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "109.115",
+                "dansTemporalSpatial:dansSpatialPointY": "504.842"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/IV3PEX",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "147283",
+                "dansTemporalSpatial:dansSpatialPointY": "406494"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/6BZQQS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "199071",
+                "dansTemporalSpatial:dansSpatialPointY": "354277"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/C3Q1OK",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "190.168",
+                "dansTemporalSpatial:dansSpatialPointY": "427.928"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/XRSTTM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "95240",
+                "dansTemporalSpatial:dansSpatialPointY": "469530"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GIVNJR",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "98800",
+                "dansTemporalSpatial:dansSpatialPointY": "440006"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/TFFTRD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "135565",
+                "dansTemporalSpatial:dansSpatialPointY": "449868"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/6DWWFT",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "104.797",
+                "dansTemporalSpatial:dansSpatialPointY": "425.172"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/Y3NNXT",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "231835",
+                "dansTemporalSpatial:dansSpatialPointY": "582503"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=doi:10.17026/AR/F3QZSZ",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "88601",
+                "dansTemporalSpatial:dansSpatialPointY": "457767"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/IR3CCV",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "77061",
+                "dansTemporalSpatial:dansSpatialPointY": "442503"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BVURVD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "6.56702",
+                "dansTemporalSpatial:dansSpatialPointY": "53.21868"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WSXDHA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "5.91066",
+                "dansTemporalSpatial:dansSpatialPointY": "51.98267"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MQQCAS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "5.90910",
+                "dansTemporalSpatial:dansSpatialPointY": "51.98685"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/VEOY2Z",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "5.73080",
+                "dansTemporalSpatial:dansSpatialPointY": "51.74775"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/FBKBBC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15854695597646",
+                "dansTemporalSpatial:dansSpatialPointY": "4.493151665252968"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/1WCLYV",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37192841521197",
+                "dansTemporalSpatial:dansSpatialPointY": "4.628090129331765"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/EGDIDI",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16055698753574",
+                "dansTemporalSpatial:dansSpatialPointY": "4.491299475454259"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/F8SSHF",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.631783195941445",
+                "dansTemporalSpatial:dansSpatialPointY": "4.753283643996207"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/LSHALC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.271285657257906",
+                "dansTemporalSpatial:dansSpatialPointY": "4.8650257836208874"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BNMCI4",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37658083658368",
+                "dansTemporalSpatial:dansSpatialPointY": "4.63541009314095"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SZXD3S",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.49485906607002",
+                "dansTemporalSpatial:dansSpatialPointY": "4.287353770996713"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/I4YS50",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37388957415969",
+                "dansTemporalSpatial:dansSpatialPointY": "4.88368490792327"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WXM9JW",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.901792377794216",
+                "dansTemporalSpatial:dansSpatialPointY": "4.345230791653729"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/Q3OJVY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16159267563578",
+                "dansTemporalSpatial:dansSpatialPointY": "4.486311552037254"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JOIOHM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.903606783711254",
+                "dansTemporalSpatial:dansSpatialPointY": "4.34970858146672"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/00EN8T",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15767803164127",
+                "dansTemporalSpatial:dansSpatialPointY": "4.492794030164701"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/QMANDM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.110096271871086",
+                "dansTemporalSpatial:dansSpatialPointY": "4.283529572514324"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/M4TWOO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15561355707539",
+                "dansTemporalSpatial:dansSpatialPointY": "4.498461243838227"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/LUDZZC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.90884324843726",
+                "dansTemporalSpatial:dansSpatialPointY": "4.479649423374508"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RBJBRL",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.158511969794226",
+                "dansTemporalSpatial:dansSpatialPointY": "4.489102453920981"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WTKMEW",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.085270914490124",
+                "dansTemporalSpatial:dansSpatialPointY": "4.315438203559363"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/01I8JO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.1492733599855",
+                "dansTemporalSpatial:dansSpatialPointY": "5.04424411381508"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RQ0WFM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15944160551071",
+                "dansTemporalSpatial:dansSpatialPointY": "4.492475047670873"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/W7X5T9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.18972045669429",
+                "dansTemporalSpatial:dansSpatialPointY": "4.438919839477241"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YSORQP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.01378441545629",
+                "dansTemporalSpatial:dansSpatialPointY": "4.709679965993801"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/V9OBPF",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15690755479306",
+                "dansTemporalSpatial:dansSpatialPointY": "4.49395401190888"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/FJL5X9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16951275373247",
+                "dansTemporalSpatial:dansSpatialPointY": "4.475728877558315"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/I1EU9D",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15941432438361",
+                "dansTemporalSpatial:dansSpatialPointY": "4.483249427699229"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/ZXOYJF",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16069181080939",
+                "dansTemporalSpatial:dansSpatialPointY": "4.484888681143348"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/5QJXH8",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.157930385847614",
+                "dansTemporalSpatial:dansSpatialPointY": "4.494899733250211"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/UBQMCG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.162421449246544",
+                "dansTemporalSpatial:dansSpatialPointY": "4.49400681718435"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OA188T",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15548894952965",
+                "dansTemporalSpatial:dansSpatialPointY": "4.499344795773653"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JAFCRP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.0220956137937",
+                "dansTemporalSpatial:dansSpatialPointY": "4.1737034051221436"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/2TDSWP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15582243286464",
+                "dansTemporalSpatial:dansSpatialPointY": "4.495633589600561"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/CO80N7",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15941345147547",
+                "dansTemporalSpatial:dansSpatialPointY": "4.484135049773657"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RDLXTA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.994244121092485",
+                "dansTemporalSpatial:dansSpatialPointY": "4.207821535249869"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/CHGOU9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.86089093714859",
+                "dansTemporalSpatial:dansSpatialPointY": "4.4171496716819165"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/HGAOT9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.003470658270096",
+                "dansTemporalSpatial:dansSpatialPointY": "5.0942807645630355"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/5LBZ6T",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.78949407211706",
+                "dansTemporalSpatial:dansSpatialPointY": "4.569295730699263"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MZIYLY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.507833628059885",
+                "dansTemporalSpatial:dansSpatialPointY": "4.849909077031111"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MYMDRD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.08232198936742",
+                "dansTemporalSpatial:dansSpatialPointY": "4.395250462861256"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GQLMGD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16005451988822",
+                "dansTemporalSpatial:dansSpatialPointY": "4.486564111945964"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/1DUKRI",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15440148434228",
+                "dansTemporalSpatial:dansSpatialPointY": "4.493573910966696"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GD95C3",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15313351880181",
+                "dansTemporalSpatial:dansSpatialPointY": "4.488390888126819"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/VFGM83",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16805095369155",
+                "dansTemporalSpatial:dansSpatialPointY": "4.482385267054772"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GDCVXW",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.489416894763565",
+                "dansTemporalSpatial:dansSpatialPointY": "4.801163385926859"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/Z81LPE",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15401601135968",
+                "dansTemporalSpatial:dansSpatialPointY": "4.501430419237536"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/5YT94Q",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.26579457804405",
+                "dansTemporalSpatial:dansSpatialPointY": "4.49183219438408"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MALIJT",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.1575216447852",
+                "dansTemporalSpatial:dansSpatialPointY": "4.4992375107125815"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OHAH2H",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.38510450648792",
+                "dansTemporalSpatial:dansSpatialPointY": "4.638140614655516"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/1ZTLU1",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.38468457282998",
+                "dansTemporalSpatial:dansSpatialPointY": "4.6367435593967015"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/31FM7H",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37226016431034",
+                "dansTemporalSpatial:dansSpatialPointY": "4.622897685638937"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SRFAZR",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.40669879228207",
+                "dansTemporalSpatial:dansSpatialPointY": "4.64058589286428"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/TZA5PV",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37196198315461",
+                "dansTemporalSpatial:dansSpatialPointY": "4.622885956713724"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JRKIG6",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.38595705543584",
+                "dansTemporalSpatial:dansSpatialPointY": "4.620878763296844"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/M8E6T8",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.00823615993528",
+                "dansTemporalSpatial:dansSpatialPointY": "4.71309795216632"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SFFQC9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.01157568556516",
+                "dansTemporalSpatial:dansSpatialPointY": "4.709914397402599"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/DYGF09",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.012979902690546",
+                "dansTemporalSpatial:dansSpatialPointY": "4.709779389415035"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/U7O5GU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.01179501178662",
+                "dansTemporalSpatial:dansSpatialPointY": "4.709919018680423"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/IGLSQM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.154990377250634",
+                "dansTemporalSpatial:dansSpatialPointY": "4.492148102119145"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KV7L2I",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.03280887007028",
+                "dansTemporalSpatial:dansSpatialPointY": "4.695342040118858"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/ND9KQO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15806083507741",
+                "dansTemporalSpatial:dansSpatialPointY": "4.488925030363042"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JWXUXC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.158744116451544",
+                "dansTemporalSpatial:dansSpatialPointY": "4.499578070249959"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OPVAMS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15917963753371",
+                "dansTemporalSpatial:dansSpatialPointY": "4.482306748431057"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/FMSVYG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.094143707786536",
+                "dansTemporalSpatial:dansSpatialPointY": "5.139635183559125"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MMPHTY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.42179836738615",
+                "dansTemporalSpatial:dansSpatialPointY": "4.6184279513785285"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JFXKKA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.09504356518516",
+                "dansTemporalSpatial:dansSpatialPointY": "4.736772165002147"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SY18CY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.36174892505468",
+                "dansTemporalSpatial:dansSpatialPointY": "4.8918249945839145"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/EDXAQQ",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.36202914408931",
+                "dansTemporalSpatial:dansSpatialPointY": "4.904505563634171"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KTCYBU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.08159182377254",
+                "dansTemporalSpatial:dansSpatialPointY": "4.310565902984962"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BZ0VH5",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.09176387627339",
+                "dansTemporalSpatial:dansSpatialPointY": "4.310053128394162"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/LTK1QZ",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.0848513523143",
+                "dansTemporalSpatial:dansSpatialPointY": "4.314419951138695"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/D5ETWB",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.05835892526938",
+                "dansTemporalSpatial:dansSpatialPointY": "4.304189935995723"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/QGIAAD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.39126429752968",
+                "dansTemporalSpatial:dansSpatialPointY": "4.608216128516621"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YOX2RG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.38077668743389",
+                "dansTemporalSpatial:dansSpatialPointY": "4.63631475397494"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/NOZWLU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.57380730485068",
+                "dansTemporalSpatial:dansSpatialPointY": "4.692100618691637"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KLQOPO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.0222208707967",
+                "dansTemporalSpatial:dansSpatialPointY": "4.211914363772799"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KPRMGY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.831373582315685",
+                "dansTemporalSpatial:dansSpatialPointY": "5.857943282325286"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/XPUUDN",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.27848532119238",
+                "dansTemporalSpatial:dansSpatialPointY": "4.98762529120761"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/K8ARZB",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15577572756045",
+                "dansTemporalSpatial:dansSpatialPointY": "4.497362407257355"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RC5NMA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.27221449748639",
+                "dansTemporalSpatial:dansSpatialPointY": "4.538804947808292"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JP3LDP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "182227",
+                "dansTemporalSpatial:dansSpatialPointY": "365327"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/DVDEUM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "161.985",
+                "dansTemporalSpatial:dansSpatialPointY": "445.028"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MUANWP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "209145",
+                "dansTemporalSpatial:dansSpatialPointY": "378507"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/FNWB0D",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "189950",
+                "dansTemporalSpatial:dansSpatialPointY": "383750"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YB5TTH",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "133.139",
+                "dansTemporalSpatial:dansSpatialPointY": "448.623"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/APFVYW",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "166.470",
+                "dansTemporalSpatial:dansSpatialPointY": "448.938"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/I0HYIT",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "148.856",
+                "dansTemporalSpatial:dansSpatialPointY": "465.617"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/VRFH88",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "204727",
+                "dansTemporalSpatial:dansSpatialPointY": "452063"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/1E25YH",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "122.110",
+                "dansTemporalSpatial:dansSpatialPointY": "481.405"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/7KLSAO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "121960.00",
+                "dansTemporalSpatial:dansSpatialPointY": "488620.00"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OBL9AZ",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "121287.00",
+                "dansTemporalSpatial:dansSpatialPointY": "486190.00"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YSBF3A",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "132230",
+                "dansTemporalSpatial:dansSpatialPointY": "502955"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/QBHZRC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "206432",
+                "dansTemporalSpatial:dansSpatialPointY": "445532"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/9D8TYL",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "108260",
+                "dansTemporalSpatial:dansSpatialPointY": "451121"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BU63YH",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "134.550",
+                "dansTemporalSpatial:dansSpatialPointY": "464.620"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/CZXF2J",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "112.472",
+                "dansTemporalSpatial:dansSpatialPointY": "558.656"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GMXK9B",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "96436",
+                "dansTemporalSpatial:dansSpatialPointY": "454209"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GFH90N",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "105.731",
+                "dansTemporalSpatial:dansSpatialPointY": "497.694"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GY909Z",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "78.679",
+                "dansTemporalSpatial:dansSpatialPointY": "377.086"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/XIAAGF",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "196495",
+                "dansTemporalSpatial:dansSpatialPointY": "468645"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/QHHAGE",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "122.592",
+                "dansTemporalSpatial:dansSpatialPointY": "495.815"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/IR3CCV",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "77061",
+                "dansTemporalSpatial:dansSpatialPointY": "442503"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BVURVD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "6.56702",
+                "dansTemporalSpatial:dansSpatialPointY": "53.21868"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WSXDHA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "5.91066",
+                "dansTemporalSpatial:dansSpatialPointY": "51.98267"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MQQCAS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "5.90910",
+                "dansTemporalSpatial:dansSpatialPointY": "51.98685"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/VEOY2Z",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "5.73080",
+                "dansTemporalSpatial:dansSpatialPointY": "51.74775"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/FBKBBC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15854695597646",
+                "dansTemporalSpatial:dansSpatialPointY": "4.493151665252968"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/EGDIDI",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16055698753574",
+                "dansTemporalSpatial:dansSpatialPointY": "4.491299475454259"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/1WCLYV",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37192841521197",
+                "dansTemporalSpatial:dansSpatialPointY": "4.628090129331765"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/F8SSHF",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.631783195941445",
+                "dansTemporalSpatial:dansSpatialPointY": "4.753283643996207"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/LSHALC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.271285657257906",
+                "dansTemporalSpatial:dansSpatialPointY": "4.8650257836208874"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BNMCI4",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37658083658368",
+                "dansTemporalSpatial:dansSpatialPointY": "4.63541009314095"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SZXD3S",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.49485906607002",
+                "dansTemporalSpatial:dansSpatialPointY": "4.287353770996713"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WXM9JW",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.901792377794216",
+                "dansTemporalSpatial:dansSpatialPointY": "4.345230791653729"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/I4YS50",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37388957415969",
+                "dansTemporalSpatial:dansSpatialPointY": "4.88368490792327"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/Q3OJVY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16159267563578",
+                "dansTemporalSpatial:dansSpatialPointY": "4.486311552037254"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JOIOHM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.903606783711254",
+                "dansTemporalSpatial:dansSpatialPointY": "4.34970858146672"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/00EN8T",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15767803164127",
+                "dansTemporalSpatial:dansSpatialPointY": "4.492794030164701"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/LUDZZC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.90884324843726",
+                "dansTemporalSpatial:dansSpatialPointY": "4.479649423374508"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/QMANDM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.110096271871086",
+                "dansTemporalSpatial:dansSpatialPointY": "4.283529572514324"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/M4TWOO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15561355707539",
+                "dansTemporalSpatial:dansSpatialPointY": "4.498461243838227"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/WTKMEW",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.085270914490124",
+                "dansTemporalSpatial:dansSpatialPointY": "4.315438203559363"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RBJBRL",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.158511969794226",
+                "dansTemporalSpatial:dansSpatialPointY": "4.489102453920981"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/W7X5T9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.18972045669429",
+                "dansTemporalSpatial:dansSpatialPointY": "4.438919839477241"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/01I8JO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.1492733599855",
+                "dansTemporalSpatial:dansSpatialPointY": "5.04424411381508"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/I1EU9D",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15941432438361",
+                "dansTemporalSpatial:dansSpatialPointY": "4.483249427699229"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RQ0WFM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15944160551071",
+                "dansTemporalSpatial:dansSpatialPointY": "4.492475047670873"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/V9OBPF",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15690755479306",
+                "dansTemporalSpatial:dansSpatialPointY": "4.49395401190888"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YSORQP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.01378441545629",
+                "dansTemporalSpatial:dansSpatialPointY": "4.709679965993801"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/5QJXH8",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.157930385847614",
+                "dansTemporalSpatial:dansSpatialPointY": "4.494899733250211"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/UBQMCG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.162421449246544",
+                "dansTemporalSpatial:dansSpatialPointY": "4.49400681718435"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/FJL5X9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16951275373247",
+                "dansTemporalSpatial:dansSpatialPointY": "4.475728877558315"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/ZXOYJF",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16069181080939",
+                "dansTemporalSpatial:dansSpatialPointY": "4.484888681143348"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JAFCRP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.0220956137937",
+                "dansTemporalSpatial:dansSpatialPointY": "4.1737034051221436"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OA188T",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15548894952965",
+                "dansTemporalSpatial:dansSpatialPointY": "4.499344795773653"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/2TDSWP",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15582243286464",
+                "dansTemporalSpatial:dansSpatialPointY": "4.495633589600561"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/CO80N7",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15941345147547",
+                "dansTemporalSpatial:dansSpatialPointY": "4.484135049773657"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RDLXTA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.994244121092485",
+                "dansTemporalSpatial:dansSpatialPointY": "4.207821535249869"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/CHGOU9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.86089093714859",
+                "dansTemporalSpatial:dansSpatialPointY": "4.4171496716819165"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/HGAOT9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.003470658270096",
+                "dansTemporalSpatial:dansSpatialPointY": "5.0942807645630355"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/5LBZ6T",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.78949407211706",
+                "dansTemporalSpatial:dansSpatialPointY": "4.569295730699263"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MZIYLY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.507833628059885",
+                "dansTemporalSpatial:dansSpatialPointY": "4.849909077031111"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GQLMGD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16005451988822",
+                "dansTemporalSpatial:dansSpatialPointY": "4.486564111945964"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GD95C3",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15313351880181",
+                "dansTemporalSpatial:dansSpatialPointY": "4.488390888126819"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MYMDRD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.08232198936742",
+                "dansTemporalSpatial:dansSpatialPointY": "4.395250462861256"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/1DUKRI",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15440148434228",
+                "dansTemporalSpatial:dansSpatialPointY": "4.493573910966696"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GDCVXW",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.489416894763565",
+                "dansTemporalSpatial:dansSpatialPointY": "4.801163385926859"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/VFGM83",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.16805095369155",
+                "dansTemporalSpatial:dansSpatialPointY": "4.482385267054772"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MALIJT",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.1575216447852",
+                "dansTemporalSpatial:dansSpatialPointY": "4.4992375107125815"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/Z81LPE",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15401601135968",
+                "dansTemporalSpatial:dansSpatialPointY": "4.501430419237536"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/5YT94Q",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.26579457804405",
+                "dansTemporalSpatial:dansSpatialPointY": "4.49183219438408"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SRFAZR",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.40669879228207",
+                "dansTemporalSpatial:dansSpatialPointY": "4.64058589286428"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/1ZTLU1",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.38468457282998",
+                "dansTemporalSpatial:dansSpatialPointY": "4.6367435593967015"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OHAH2H",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.38510450648792",
+                "dansTemporalSpatial:dansSpatialPointY": "4.638140614655516"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/TZA5PV",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37196198315461",
+                "dansTemporalSpatial:dansSpatialPointY": "4.622885956713724"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/31FM7H",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37226016431034",
+                "dansTemporalSpatial:dansSpatialPointY": "4.622897685638937"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/M8E6T8",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.00823615993528",
+                "dansTemporalSpatial:dansSpatialPointY": "4.71309795216632"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JRKIG6",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.38595705543584",
+                "dansTemporalSpatial:dansSpatialPointY": "4.620878763296844"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SFFQC9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.01157568556516",
+                "dansTemporalSpatial:dansSpatialPointY": "4.709914397402599"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/DYGF09",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.012979902690546",
+                "dansTemporalSpatial:dansSpatialPointY": "4.709779389415035"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/U7O5GU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.01179501178662",
+                "dansTemporalSpatial:dansSpatialPointY": "4.709919018680423"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KV7L2I",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.03280887007028",
+                "dansTemporalSpatial:dansSpatialPointY": "4.695342040118858"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/IGLSQM",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.154990377250634",
+                "dansTemporalSpatial:dansSpatialPointY": "4.492148102119145"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OPVAMS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15917963753371",
+                "dansTemporalSpatial:dansSpatialPointY": "4.482306748431057"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/ND9KQO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15806083507741",
+                "dansTemporalSpatial:dansSpatialPointY": "4.488925030363042"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JWXUXC",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.158744116451544",
+                "dansTemporalSpatial:dansSpatialPointY": "4.499578070249959"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/FMSVYG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.094143707786536",
+                "dansTemporalSpatial:dansSpatialPointY": "5.139635183559125"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/MMPHTY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.42179836738615",
+                "dansTemporalSpatial:dansSpatialPointY": "4.6184279513785285"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SY18CY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.36174892505468",
+                "dansTemporalSpatial:dansSpatialPointY": "4.8918249945839145"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/JFXKKA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.09504356518516",
+                "dansTemporalSpatial:dansSpatialPointY": "4.736772165002147"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/EDXAQQ",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.36202914408931",
+                "dansTemporalSpatial:dansSpatialPointY": "4.904505563634171"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/LTK1QZ",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.0848513523143",
+                "dansTemporalSpatial:dansSpatialPointY": "4.314419951138695"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/BZ0VH5",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.09176387627339",
+                "dansTemporalSpatial:dansSpatialPointY": "4.310053128394162"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KTCYBU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.08159182377254",
+                "dansTemporalSpatial:dansSpatialPointY": "4.310565902984962"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/D5ETWB",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.05835892526938",
+                "dansTemporalSpatial:dansSpatialPointY": "4.304189935995723"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/NOZWLU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.57380730485068",
+                "dansTemporalSpatial:dansSpatialPointY": "4.692100618691637"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/QGIAAD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.39126429752968",
+                "dansTemporalSpatial:dansSpatialPointY": "4.608216128516621"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YOX2RG",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.38077668743389",
+                "dansTemporalSpatial:dansSpatialPointY": "4.63631475397494"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KLQOPO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.0222208707967",
+                "dansTemporalSpatial:dansSpatialPointY": "4.211914363772799"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KPRMGY",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.831373582315685",
+                "dansTemporalSpatial:dansSpatialPointY": "5.857943282325286"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RC5NMA",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.27221449748639",
+                "dansTemporalSpatial:dansSpatialPointY": "4.538804947808292"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/K8ARZB",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15577572756045",
+                "dansTemporalSpatial:dansSpatialPointY": "4.497362407257355"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/XPUUDN",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.27848532119238",
+                "dansTemporalSpatial:dansSpatialPointY": "4.98762529120761"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/GEPEND",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15936633701279",
+                "dansTemporalSpatial:dansSpatialPointY": "4.48711317668269"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/RRZOTS",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "51.67823552005477",
+                "dansTemporalSpatial:dansSpatialPointY": "4.42369775899509"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OO6AOD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.15582942657239",
+                "dansTemporalSpatial:dansSpatialPointY": "4.495821344210947"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/SAO6HD",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "52.37450388001146",
+                "dansTemporalSpatial:dansSpatialPointY": "4.889788210513709"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/138JV9",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "5.96100",
+                "dansTemporalSpatial:dansSpatialPointY": "52.21757"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OJY2WR",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "97901",
+                "dansTemporalSpatial:dansSpatialPointY": "433895"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/KDIH19",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "89166",
+                "dansTemporalSpatial:dansSpatialPointY": "432045"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/IH8R4M",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": [
+                {
+                    "dansTemporalSpatial:dansSpatialPointX": "233669",
+                    "dansTemporalSpatial:dansSpatialPointY": "581796"
+                },
+                {
+                    "dansTemporalSpatial:dansSpatialPointX": "233629",
+                    "dansTemporalSpatial:dansSpatialPointY": "581726"
+                },
+                {
+                    "dansTemporalSpatial:dansSpatialPointX": "233772",
+                    "dansTemporalSpatial:dansSpatialPointY": "581545"
+                },
+                {
+                    "dansTemporalSpatial:dansSpatialPointX": "233767",
+                    "dansTemporalSpatial:dansSpatialPointY": "581606"
+                }
+            ]
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/X6M0EE",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "185430",
+                "dansTemporalSpatial:dansSpatialPointY": "427900"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/OMXJBO",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "89626",
+                "dansTemporalSpatial:dansSpatialPointY": "459153"
+            }
+        }
+    },
+    {
+        "@id": "https://archaeology.datastations.nl/api/datasets/export?exporter=OAI_ORE&persistentId=https://doi.org/10.17026/AR/YCROZU",
+        "ore:describes": {
+            "dansTemporalSpatial:dansSpatialPoint": {
+                "dansTemporalSpatial:dansSpatialPointX": "198910",
+                "dansTemporalSpatial:dansSpatialPointY": "358185"
+            }
+        }
+    }
+]
