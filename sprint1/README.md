@@ -2,15 +2,17 @@
 
 
 ## Task 1: identify & infer datasets with coordinates but missing coordinates scheme or incomplete coordinates
-You can find the code used to identify datasets with missing coordinate schemes in [sprint_1.ipynb]("sprint_1.ipynb"). I collected the number of datasets that have values for SpatialPointX and SpatialPointY, but no SpatialPointSchema, as well as datasets that use Bounding Boxes to express coordinates, but no scheme specification. 
+You can find the code used to identify datasets with missing coordinate schemes in [sprint_1.ipynb]("rce-spatial-coverage/sprint1/sprint_1.ipynb"). I collected the number of datasets that have values for SpatialPointX and SpatialPointY, but no SpatialPointSchema, as well as datasets that use Bounding Boxes to express coordinates, but no scheme specification. 
 
 I also counted and collected the datasets that have incomplete coordinates (e.g. values for BoundingBoxEast and West, but not North and South). See the counts in the table below. All datasets that have *incomplete coordinates* use bounding boxes. X/Y points seem to be complete. 
 
 
 
-| # SpatialPoint, no schema | # Bounding Box, no schema | incomplete coordinates |
+| # SpatialPoint | # Bounding Box| incomplete coordinates |
 | ----------------- | --------------- | ---------------------- |
 | 270               | 3               | 8                      |
+
+*Table 1: The number of datasets with a missing value for the coordinate scheme or incomplete coordinates*
 
 
 ### Steps 
@@ -37,8 +39,6 @@ I also counted and collected the datasets that have incomplete coordinates (e.g.
 - I added a boolean variable called `incorrect` that indicates if a long/lat variable is probably reversed (y,x instead of x,y). 
 - The code only works when there is exactly one entry for the points. In one case, there is more than one. Add these manually. 
   
-
-
 
 
 
