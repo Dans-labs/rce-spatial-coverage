@@ -2,7 +2,7 @@
 
 
 ## Task 1: identify & infer datasets with coordinates but missing coordinates scheme or incomplete coordinates
-You can find the code used to identify datasets with missing coordinate schemes in [sprint_1.ipynb]("sprint_1.ipynb"). I collected the number of datasets that have values for SpatialPointX and SpatialPointY, but no SpatialPointSchema, as well as datasets that use Bounding Boxes to express coordinates, but no scheme specification. 
+You can find the code used to identify datasets with missing coordinate schemes in `sprint_1.ipynb`. I collected the number of datasets that have values for SpatialPointX and SpatialPointY, but no SpatialPointSchema, as well as datasets that use Bounding Boxes to express coordinates, but no scheme specification. 
 
 I also counted and collected the datasets that have incomplete coordinates (e.g. values for BoundingBoxEast and West, but not North and South). See the counts in the table below. All datasets that have *incomplete coordinates* use bounding boxes. X/Y points seem to be complete. 
 
